@@ -41,7 +41,6 @@
 4mail.cf
 4mail.ga
 4warding.com
-4warding.net
 5gramos.com
 5mail.cf
 5mail.ga
@@ -92,7 +91,6 @@ amazon-aws.org
 amelabs.com
 amilegit.com
 amiri.net
-amiriindustries.com
 ampsylike.com
 an.id.au
 anappthat.com
@@ -107,12 +105,10 @@ anthony-junkmail.com
 antichef.com
 antichef.net
 antispam.de
-aopconsultants.com
 apfelkorps.de
 aphlog.com
 appc.se
 appinventor.nl
-aresting.com
 armyspy.com
 aron.us
 arroisijewellery.com
@@ -161,7 +157,6 @@ boximail.com
 brandallday.net
 brefmail.com
 briggsmarcus.com
-broadbandninja.com
 bsnow.net
 bspooky.com
 btb-notes.com
@@ -183,9 +178,7 @@ byespm.com
 byom.de
 cachedot.net
 californiafitnessdeals.com
-carsencyclopedia.com
 casualdx.com
-cellurl.com
 centermail.com
 centermail.net
 chammy.info
@@ -281,7 +274,6 @@ disposableinbox.com
 disposeamail.com
 disposemail.com
 dispostable.com
-dm.w3internet.co.ukexample.com
 dodgeit.com
 dodgemail.de
 dodgit.com
@@ -307,7 +299,6 @@ dumpmail.de
 durandinterstellar.com
 dyceroprojects.com
 dz17.net
-e-tomarigi.com
 e3z.de
 e4ward.com
 easytrashmail.com
@@ -335,7 +326,6 @@ emaildienst.de
 emailgo.de
 emailias.com
 emailigo.de
-emailinfive.com
 emailmiser.com
 emailproxsy.com
 emailresort.com
@@ -374,7 +364,6 @@ esprity.com
 evanfox.info
 evopo.com
 exitstageleft.net
-explodemail.com
 eyepaste.com 
 ezstest.com
 f4k.es
@@ -417,7 +406,6 @@ fiifke.de
 filbert4u.com
 filberts4u.com
 filzmail.com
-finkilium.net
 fleckens.hu
 flowu.com
 flurred.com
@@ -481,7 +469,6 @@ ginzi.net
 ginzy.co.uk
 ginzy.eu
 girlsindetention.com
-girlsundertheinfluence.com
 gishpuppy.com
 glitch.sx
 globaltouron.com
@@ -654,7 +641,6 @@ kwilco.net
 l-c-a.us
 lackmail.net
 lakelivingstonrealestate.com
-lawlz.net
 letmeinonthis.com
 letthemeatspam.com
 lez.se
@@ -782,7 +768,6 @@ mintemail.com
 mkpfilm.com
 ml8.ca
 moakt.com
-moburl.com
 mockmyid.com
 momentics.ru
 moncourrier.fr.nf
@@ -805,7 +790,6 @@ mt2009.com
 mtmdev.com
 muathegame.com
 mucincanon.com
-mustbedestoryed.org
 mutant.me
 mwarner.org
 mx0.wwwnew.eu
@@ -905,7 +889,6 @@ ovpn.to
 owlpic.com
 ownsyou.de
 oxopoha.com
-pancakemail.com
 pastebitch.com
 penisgoes.in
 peterdethier.com
@@ -977,7 +960,6 @@ revolvingdoorhoax.org
 rhyta.com
 riddermark.de
 risingsuntouch.com
-rklips.com
 rmqkr.net
 rnailinator.com
 robertspcrepair.com
@@ -985,7 +967,6 @@ ronnierage.net
 rotaniliam.com
 rowe-solutions.com
 royaldoodles.org
-rppkn.com
 rtrtr.com
 rumgel.com
 rustydoor.com
@@ -1039,7 +1020,6 @@ sinfiltro.cl
 singlespride.com
 sinnlos-mail.de
 sizzlemctwizzle.com
-skeefmail.com
 skkk.edu.my
 sky-inbox.com
 slaskpost.se
@@ -1170,7 +1150,6 @@ thankyou2010.com
 theaviors.com
 thebearshark.com
 thediamants.org
-theelitehotelcard.com
 thembones.com.au
 themostemail.com
 thescrappermovie.com
@@ -1271,8 +1250,6 @@ voxelcore.com
 vztc.com
 wakingupesther.com
 walkmail.net
-wallstreetcompound.com
-washingtongarricklawyers.com
 watchever.biz
 watchironman3onlinefreefullmovie.com
 wbml.net
@@ -1315,7 +1292,6 @@ xcpy.com
 xemaps.com
 xents.com
 xjoi.com
-xmaily.com
 xn--9kq967o.com
 xoxy.net
 xrho.com
