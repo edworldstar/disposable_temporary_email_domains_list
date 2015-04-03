@@ -3,6 +3,7 @@
 
 0-mail.com
 0815.ru
+0815.su
 0clickemail.com
 0wnd.net
 0wnd.org
@@ -26,6 +27,8 @@
 9ox.net
 a-bc.net
 a.vztc.com
+a45.in
+abcmail.email
 abyssmail.com
 afrobacon.com
 ajaxapp.net
@@ -47,13 +50,18 @@ bio-muesli.net
 bobmail.info
 bodhi.lawlita.com
 bofthew.com
+boun.cr
+bouncr.com
 boximail.com
 brefmail.com
 broadbandninja.com
 bsnow.net
 bugmenot.com
 bumpymail.com
+bund.us
+bundes-li.ga
 byom.de
+cachedot.net
 casualdx.com
 cellurl.com
 centermail.com
@@ -83,6 +91,7 @@ despammed.com
 devnullmail.com
 dfgh.net
 digitalsanctuary.com
+discard.email
 discardmail.com
 discardmail.de
 disposableaddress.com
@@ -138,11 +147,14 @@ fastsubaru.com
 fastsuzuki.com
 fasttoyota.com
 fastyamaha.com
+fiifke.de
 filzmail.com
 fleckens.hu
+flurred.com
 fr33mail.info
 frapmail.com
 freemail.hu
+freundin.ru
 front14.org
 garliclife.com
 get2mail.fr
@@ -174,6 +186,7 @@ gustr.com
 h.mintemail.com
 h8s.org
 haltospam.com
+hartbot.de
 hatespam.org
 hidemail.de
 hochsitze.com
@@ -192,6 +205,8 @@ inboxproxy.com
 incognitomail.com
 incognitomail.net
 incognitomail.org
+inoutmail.info
+inoutmail.net
 insorg-mail.info
 ipoo.org
 irish2me.com
@@ -220,6 +235,7 @@ lhsdv.com
 lifebyfood.com
 link2mail.net
 litedrop.com
+loadby.us
 lol.ovpn.to
 lookugly.com
 lopl.co.cc
@@ -244,7 +260,6 @@ mailfreeonline.com
 mailin8r.com
 mailinater.com
 mailinator.com
-mailinator.com
 mailinator.net
 mailinator2.com
 mailincubator.com
@@ -263,6 +278,7 @@ mailslite.com
 mailtemp.info
 mailzilla.com
 mailzilla.org
+manifestgenerator.com
 mbx.cc
 mciek.com
 mega.zik.dj
@@ -281,7 +297,9 @@ msb.minsmail.com
 mt2009.com
 mx0.wwwnew.eu
 my10minutemail.com
+mybitti.de
 mycleaninbox.net
+mynetstore.de
 mypartyclip.de
 myphantomemail.com
 mytrashmail.com
@@ -301,6 +319,8 @@ nokiamail.com
 nomail.xl.cx
 nomail2me.com
 nomorespamemails.com
+nonspam.eu
+noref.in
 nospam.ze.tc
 nospam4.us
 nospamfor.us
@@ -321,7 +341,9 @@ ordinaryamerican.net
 otherinbox.com
 ovpn.to
 owlpic.com
+ownsyou.de
 pancakemail.com
+pfui.ru
 pjjkp.com
 politikerclub.de
 poofy.org
@@ -361,6 +383,7 @@ sharklasers.com
 shiftmail.com
 shitmail.me
 shortmail.net
+showslow.de
 sibmail.com
 skeefmail.com
 slaskpost.se
@@ -416,6 +439,7 @@ spamobox.com
 spamoff.de
 spamslicer.com
 spamspot.com
+spamstack.net
 spamthis.co.uk
 spamthisplease.com
 spamtrail.com
@@ -426,6 +450,7 @@ supermailer.jp
 superrito.com
 suremail.info
 svk.jp
+sweetxxx.de
 tafmail.com
 teewars.org
 teleworm.com
@@ -453,6 +478,7 @@ tilien.com
 tmail.ws
 tmailinator.com
 toiea.com
+top101.de
 tradermail.info
 trash-mail.at
 trash-mail.com
@@ -482,7 +508,9 @@ voidbay.com
 vomoto.com
 vztc.com
 walkmail.net
+watchever.biz
 webm4il.info
+webuser.in
 wegwerfadresse.de
 wegwerfemail.de
 wegwerfmail.de
