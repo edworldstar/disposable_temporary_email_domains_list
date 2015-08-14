@@ -567,6 +567,7 @@ inboxalias.com
 inboxclean.com
 inboxclean.org
 inboxproxy.com
+inboxstore.me
 incognitomail.com
 incognitomail.net
 incognitomail.org
