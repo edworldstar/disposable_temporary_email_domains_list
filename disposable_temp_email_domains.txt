@@ -1,5 +1,5 @@
 # Disposable Temporary Email List
-# $Id: disposable_temp_email_domains.txt v0.3 2015/08/14 08:21:09 edworldstar Exp $
+# $Id: disposable_temp_email_domains.txt v0.4 2016/05/24 09:45:09 edworldstar Exp $
 
 0-mail.com
 0815.ru
@@ -27,8 +27,10 @@
 1mail.ml
 1st-forms.com
 1to1mail.org
+2-ch.space
 20minutemail.com
 2120001.net
+2ch.coms.hk
 2prong.com
 30minutemail.com
 33mail.com
@@ -64,6 +66,7 @@
 a-bc.net
 a.vztc.com
 a45.in
+aazzn.com
 abakiss.com
 abcmail.email
 abusemail.de
@@ -100,6 +103,7 @@ anonbox.net
 anonymbox.com
 anonymized.org
 anonymousness.com
+anotherdomaincyka.tk
 ansibleemail.com
 anthony-junkmail.com
 antichef.com
@@ -121,6 +125,7 @@ augmentationtechnology.com
 autorobotica.com
 autotwollow.com
 axiz.org
+azazazatashkent.tk
 azcomputerworks.com
 badgerland.eu
 badoop.com
@@ -131,6 +136,7 @@ bazaaboom.com
 bcast.ws
 bearsarefuzzy.com
 beefmilk.com
+belastingdienst.pw
 belljonestax.com
 benipaula.org
 bestchoiceusedcar.com
@@ -141,6 +147,7 @@ bio-muesli.net
 blip.ch
 bluedumpling.info
 bluewerks.com
+blutig.me
 bobmail.info
 bobmurchison.com
 bodhi.lawlita.com
@@ -162,6 +169,7 @@ bsnow.net
 bspooky.com
 btb-notes.com
 btc.email
+btcmail.pw
 bugmenot.com
 bulrushpress.com
 bum.net
@@ -190,13 +198,15 @@ chogmail.com
 choicemail1.com
 chumpstakingdumps.com
 cigar-auctions.com
+ckaazaza.tk
 ckiso.com
 cl-cl.org
 cl0ne.net
 clandest.in
 clrmail.com
 cnamed.com
-cnmsg.net	
+cnmsg.net   
+cnn.coms.hk
 cnsds.de
 codeandscotch.com
 codivide.com
@@ -213,12 +223,13 @@ courrieltemporaire.com
 crankhole.com
 crapmail.org
 crastination.de
-crazymailing.com	
+crazymailing.com    
 crossroadsmail.com
-cszbl.com	
+cszbl.com   
 cubiclink.com
 curryworld.de
 cust.in
+cuteboyo.com
 cuvox.de
 dacoolest.com
 daemsteam.com
@@ -226,6 +237,7 @@ dammexe.net
 dandikmail.com
 darkharvestfilms.com
 daryxfox.net
+dasdasdascyka.tk
 dash-pads.com
 dataarca.com
 datafilehost
@@ -253,6 +265,7 @@ despam.it
 despammed.com
 devnullmail.com
 dfgh.net
+dfghj.ml
 diapaulpainting.com
 digitalmariachis.com
 digitalsanctuary.com
@@ -324,6 +337,7 @@ emailage.gq
 emailage.ml
 emailage.tk
 emaildienst.de
+emailforyounow.com
 emailgo.de
 emailias.com
 emailigo.de
@@ -363,6 +377,7 @@ esemay.com
 esgeneri.com
 esprity.com
 evanfox.info
+everytg.ml
 evopo.com
 exitstageleft.net
 eyepaste.com 
@@ -387,6 +402,7 @@ fakeinbox.tk
 fakeinformation.com
 fangoh.com
 farrse.co.uk
+fast-mail.fr
 fastacura.com
 fastchevy.com
 fastchrysler.com
@@ -399,6 +415,7 @@ fastsubaru.com
 fastsuzuki.com
 fasttoyota.com
 fastyamaha.com
+fbi.coms.hk
 fer-gabon.org
 fettometern.com
 fictionsite.com
@@ -424,10 +441,15 @@ freeblackbootytube.com
 freecat.net
 freedompop.us
 freefattymovies.com
+freelance-france.eu
 freemail.hu
 freemails.cf
 freemails.ga
 freemails.ml
+freemeil.ga
+freemeil.gq
+freemeil.ml
+freemeil.tk
 freeplumpervideos.com
 freeschoolgirlvids.com
 freesistercam.com
@@ -438,6 +460,9 @@ fuckedupload.com
 funnycodesnippets.com
 furzauflunge.de
 g4hdrop.us
+gaetan583.tk
+gaetan584.tk
+gaetan587.tk
 galaxy.tv
 gamegregious.com
 garbagecollector.org
@@ -538,8 +563,10 @@ herpderp.nl
 hiddentragedy.com
 hidemail.de
 highbros.org
+hmamail.com
 hoanggiaanh.com
 hochsitze.com
+hoer.pw
 hot-mail.cf
 hot-mail.ga
 hot-mail.gq
@@ -562,6 +589,7 @@ illistnoise.com
 ilovespam.com
 imails.info
 imgof.com
+immo-gerance.info
 inbox.si
 inboxalias.com
 inboxclean.com
@@ -574,12 +602,15 @@ incognitomail.net
 incognitomail.org
 indieclad.com
 indirect.ws
-ineec.net	
+ineec.net   
+info-radio.ml
+inmynetwork.tk
 inoutmail.info
 inoutmail.net
 insanumingeniumhomebrew.com
 insorg-mail.info
 instant-mail.de
+instantmail.fr
 interstats.org
 intersteller.com
 ipoo.org
@@ -593,12 +624,14 @@ iwi.net
 j-p.us
 jafps.com
 jdmadventures.com
+je-recycle.info
 jellyrolls.com
 jetable.com
 jetable.fr.nf
 jetable.net
 jetable.org
 jnxjn.com
+jobbikszimpatizans.hu
 jobposts.net
 jobs-to-be-done.net
 joelpet.com
@@ -610,7 +643,8 @@ junkmail.ga
 junkmail.gq
 kakadua.net
 kalapi.org
-kamsg.com	
+kamsg.com   
+kanker.website
 kariplan.com
 kartvelo.com
 kasmail.com
@@ -618,6 +652,7 @@ kaspop.com
 kcrw.de
 keepmymail.com
 keinhirn.de
+keinpardon.de
 keipino.de
 kemptvillebaseball.com
 kennedy808.com
@@ -630,6 +665,7 @@ kitnastar.com
 klassmaster.com
 kludgemush.com
 klzlk.com
+knol-power.nl
 kommunity.biz
 kopagas.com
 kopaka.net
@@ -644,6 +680,8 @@ kwilco.net
 l-c-a.us
 lackmail.net
 lakelivingstonrealestate.com
+leeching.net
+legalrc.loan
 letmeinonthis.com
 letthemeatspam.com
 lez.se
@@ -656,6 +694,7 @@ lilo.me
 lindenbaumjapan.com
 link2mail.net
 litedrop.com
+liveradio.tk
 lkgn.se
 loadby.us
 locomodev.net
@@ -665,10 +704,13 @@ login-email.ml
 login-email.tk
 loin.in
 lol.ovpn.to
+lolito.tk
 lolmail.biz
 lookugly.com
 lopl.co.cc
 lortemail.dk
+lovefall.ml
+lovesea.gq
 lpfmgmtltd.com
 lr78.com
 lru.me
@@ -681,6 +723,7 @@ macromaid.com
 magamail.com
 magicbox.ro
 maidlow.info
+mail-easy.fr
 mail-filter.com
 mail-owl.com
 mail-temporaire.fr
@@ -710,6 +753,7 @@ mailfree.gq
 mailfree.ml
 mailfreeonline.com
 mailfs.com
+mailhive.biz
 mailimate.com
 mailin8r.com
 mailinater.com
@@ -784,15 +828,19 @@ moreawesomethanyou.com
 moreorcs.com
 motique.de
 mountainregionallibrary.net
+mrossi.cf
+mrossi.ga
+mrossi.ml
 msa.minsmail.com
 msb.minsmail.com
-msgos.com	
+msgos.com   
 mspeciosa.com
 msxd.com
 mt2009.com
 mtmdev.com
 muathegame.com
 mucincanon.com
+muehlacker.tk
 mutant.me
 mwarner.org
 mx0.wwwnew.eu
@@ -818,6 +866,7 @@ nakedtruth.biz
 nanonym.ch
 nationalgardeningclub.com
 negated.com
+nege.rs
 neomailbox.com
 nepwk.com
 nervmich.net
@@ -830,12 +879,13 @@ netviewer-france.com
 netzidiot.de
 neverbox.com
 nextstopvalhalla.com
-nfast.net	
+nfast.net   
 nguyenusedcars.com
 nicknassar.com
+nike.coms.hk
 niwl.net
 nmail.cf
-nnot.net	
+nnot.net    
 no-spam.ws
 no-ux.com
 nobulk.com
@@ -843,6 +893,7 @@ noclickemail.com
 nodezine.com
 nogmailspam.info
 nokiamail.com
+nolan.nu
 nomail.xl.cx
 nomail2me.com
 nomorespamemails.com
@@ -880,7 +931,7 @@ oneoffemail.com
 onewaymail.com
 online.ms
 onlineidea.info
-onqin.com	
+onqin.com   
 ontyne.biz
 oolus.com
 oopi.org
@@ -894,6 +945,7 @@ ownsyou.de
 oxopoha.com
 pastebitch.com
 penisgoes.in
+pepsi.coms.hk
 peterdethier.com
 petrzilka.net
 pfui.ru
@@ -912,7 +964,7 @@ poofy.org
 pookmail.com
 poopiebutt.club
 popesodomy.com
-popgx.com	
+popgx.com   
 poutineyourface.com
 powlearn.com
 primabananen.net
@@ -953,12 +1005,14 @@ recode.me
 reconmail.com
 recursor.net
 redfeathercrow.com
+regspaces.tk
 rejectmail.com
 remail.cf
 remail.ga
 remarkable.rocks
 remote.li
 reptilegenetics.com
+resgedvgfed.tk
 revolvingdoorhoax.org
 rhyta.com
 riddermark.de
@@ -986,10 +1040,11 @@ samsclass.info
 sandelf.de
 sandwhichvideo.com
 sanfinder.com
-sanim.net	
+sanim.net   
 sanstr.com
 satukosong.com
 sausen.com
+savelife.ml
 saynotospams.com
 schachrol.com
 schafmail.de
@@ -1001,6 +1056,7 @@ selfdestructingmail.com
 sendfree.org
 sendingspecialflyers.com
 sendspamhere.com
+servermaps.net
 sexforswingers.com
 sexical.com
 sharedmailbox.org
@@ -1021,9 +1077,11 @@ sibmail.com
 simpleitsecurity.info
 sinfiltro.cl
 singlespride.com
+singtelmails.com
 sinnlos-mail.de
 sizzlemctwizzle.com
 skkk.edu.my
+skrx.tk
 sky-inbox.com
 slaskpost.se
 slopsbox.com
@@ -1033,6 +1091,7 @@ smtp99.com
 smwg.info
 snakemail.com
 sneakemail.com
+socialcampaigns.org
 socialfurry.org
 sofimail.com
 sofort-mail.de
@@ -1041,6 +1100,7 @@ soisz.com
 solventtrap.wiki
 soodonims.com
 spam.la
+spam.mrossi.gq
 spam.org.es
 spam.su
 spam4.me
@@ -1100,6 +1160,7 @@ speedgaus.net
 spoofmail.de
 spritzzone.de
 squizzy.de
+sraka.xyz
 stanfordujjain.com
 starlight-breaker.net
 statdvr.com
@@ -1118,6 +1179,7 @@ supergreatmail.com
 supermailer.jp
 superrito.com
 suremail.info
+susi.ml
 svk.jp
 sweetxxx.de
 sylvannet.com
@@ -1161,6 +1223,7 @@ thietbivanphong.asia
 thisisnotmyrealemail.com
 thisurl.website
 thnikka.com
+thraml.com
 throwawayemailaddress.com
 thunkinator.org
 thxmate.com
@@ -1217,6 +1280,7 @@ twinmail.de
 twoweirdtricks.com
 txtadvertise.com
 tyldd.com
+u14269.ml
 ufacturing.com
 uggsrock.com
 uguuchantele.com
@@ -1229,6 +1293,7 @@ urfunktion.se
 uroid.com
 utiket.us
 uwork4.us
+vaasfc4.tk
 vaati.org
 valhalladev.com
 venompen.com
@@ -1237,13 +1302,15 @@ veryday.ch
 veryday.eu
 veryday.info
 veryrealemail.com
+vickaentb.tk
 victoriantwins.com
 vikingsonly.com
 vinernet.com
-vipxm.net	
+vipxm.net   
+visa.coms.hk
 vixletdev.com
 vmailing.info
-vmani.com	
+vmani.com   
 vmpanda.com
 voidbay.com
 vomoto.com
@@ -1256,6 +1323,9 @@ walkmail.net
 watchever.biz
 watchironman3onlinefreefullmovie.com
 wbml.net
+web-contact.info
+web-emailbox.eu
+webcontact-france.eu
 webm4il.info
 webtrip.ch
 webuser.in
@@ -1269,6 +1339,7 @@ wegwerfmail.de
 wegwerfmail.net
 wegwerfmail.org
 welikecookies.com
+wfgdfhj.tk
 wg0.com
 wh4f.org
 whatifanalytics.com
@@ -1277,9 +1348,10 @@ whyspam.me
 wibblesmith.com
 widget.gg
 willselfdestruct.com
-wimsg.com	
+wimsg.com   
 winemaven.info
 wmail.cf
+worksmobile.ml
 wralawfirm.com
 wronghead.com
 wuzup.net
@@ -1302,6 +1374,8 @@ xwaretech.com
 xwaretech.info
 xwaretech.net
 xww.ro
+xy9ce.tk
+yapped.net
 yaqp.com
 yeah.net
 yep.it
@@ -1322,8 +1396,10 @@ yspend.com
 yugasandrika.com
 yui.it
 yuurok.com
+zaktouni.fr
 zehnminutenmail.de
 zepp.dk
+zeta-telecom.com
 zetmail.com
 zippymail.info
 zipsendtest.com
